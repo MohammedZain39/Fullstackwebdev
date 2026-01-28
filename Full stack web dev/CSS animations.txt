@@ -1,0 +1,29 @@
+CSS Animations:
+What is an Animation?
+CSS Animation allows the multiple state chnages using keyframes,without using interaction.
+
+1)Animation properties:
+animation-name:Links animation to keyframes
+values:customer name(fadeIn,slide,bounce,none)
+example:
+animation-name:fadeIn;
+
+
+2) animation-duration: Total time for one animation cycle
+value:1s,2s,500ms
+
+3)animation-timing-function:speed curve of animation
+value:ease,liner,ease-in,ease-out,steps(n)
+
+4) animation-delay:
+Values: normal,reverse,alternate,alternate-reverse
+
+5)animation-iteration-count:Number of times animation runs
+1(default)
+2,3,infinite
+
+6)animation-direction:
+Values:normal,reverse,alternate,alternate-reverse
+
+7) animation-fill-mode:
+

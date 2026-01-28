@@ -1,0 +1,19 @@
+###---WORKING WITH A GRID:---###
+CSS Grid is a two-dimensional layout system (rows+columns)
+
+#Purpose of Grid:
+>Build complex layouts
+>precise placements
+>control row and columns together
+
+#Parent properties:
+display:grid                Activates grid
+grid-template-columns       Define columns
+grid-template-rows          Define rows 
+grid-template-areas         Name layout
+gap                         Space between grid items
+
+#Child properties:
+grid-column                 column space
+grid-row                    row span
+grid-area                   Named area

@@ -1,0 +1,35 @@
+body{
+    text-align:center;
+    padding:50px;
+    font-family:Arial, Helvetica, sans-serif;
+    background: rgb(182, 182, 69);
+}
+.btn{
+    padding:15px;
+    font-size:18px;
+    border:5px;
+    background-color: blue;
+    color:white;
+    cursor:pointer;
+    transition: transform 0.3s, background 0.3s;
+
+}
+.btn:hover{
+    background-color:green;
+    transform:scale(1.6);
+
+}
+.loader{
+    margin:40px auto;
+    width:50px;
+    height:50px;
+    border:5px solid #ccc;
+    border-top:5px solid #641cc8;
+    border-radius: 50% ;
+    animation:spin 1s infinite linear;
+}
+@keyframes spin{
+    100%{transform: rotate(360deg);
+
+}
+}

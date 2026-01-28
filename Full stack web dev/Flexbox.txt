@@ -1,0 +1,28 @@
+###---FLEXBOX---###
+#What is flexbox?
+flexbox (flexible box layout )is one dimensional layout system used to 
+align items in a row or column.
+
+#Purpose of flexbox:
+>Align items easily
+>Distribute space dynamically
+>Make layouts responsive without floats
+
+#Flexbox properties:
+properties          Purpose
+display:flex        activates flexbox
+flex-direction      row/column
+justify-content     horizontal alignment
+align-items         vertical alignment
+flex-wrap           wrap items
+gap                 space between items
+
+#child properties:
+flex-grow             items grow
+flex-shrink           items shrinks
+flex-basis            initial size
+align-self            individual alignment
+
+
+
+           

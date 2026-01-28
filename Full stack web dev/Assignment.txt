@@ -1,0 +1,7 @@
+###---Assignment---###
+create a simple web page with a form
+>page title and heading
+> user input form with:
+Name, email,password,gender(radio buttons),course: dropdown,message:(text area)
+>submit buttom
+>basic styling using CSS
