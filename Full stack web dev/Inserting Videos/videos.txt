@@ -1,0 +1,30 @@
+<video width="",hieght="" >
+    <source
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inserting Video</title>
+</head>
+<body>
+    <h2 style="text-align: center;">Inserting Videos</h2>
+    <video width="300" height="450">
+        <source src="C:/Users/mz818/Desktop/Full stack web dev/Inserting Videos/Untitled design.mp4">
+    
+    <iframe></iframe> width="500" height="200" src="https://www.youtube.com/watch?v=YAFUyPp_238" frameborder="400"></iframe>
+    
+
+    <h2> Bootcamp location</h2>
+    <iframe
+    
+    src="https://www.google.com/maps/@17.5637578,78.4136158,11z?authuser=0&entry=ttu&g_ep=EgoyMDI2MDEyNy4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D"
+    width="300"
+    height="200">
+    </iframe>   
+    </video>
+</body>
+</html>    

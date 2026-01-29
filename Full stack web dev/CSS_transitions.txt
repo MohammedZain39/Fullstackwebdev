@@ -1,0 +1,41 @@
+###---CSS transitions---###
+
+1)Transition properties:
+specify which css property to animate.
+values:
+all(default),width ,height,background-color,transform,opacity,margin,padding etc..
+example: transition-property:background-color;
+
+
+2) Transition-duration:
+Defines how long transition takes.
+values:0.3s,500ms,1s
+
+
+3)Transiton-timing-function:
+Controls speed curve of transition values: ease(default),liner,ease-in,ease-out,ease-in-out
+
+
+4)Transition-delay:
+Delayes the start of the transition
+values:0s,0.2s
+example: transition-delay:0.2s;
+
+
+5)transition(shorthand):
+Combines all the transition properties
+transition:property duration timing-function delay;
+transition: transform 0.3s ease 0s;
+
+
+6)Common transition-properties:
+color                      red->blue
+background-color         #fff->#333
+transform                  scale(1.1)
+opacity                    0>1
+width                      100px->250px;
+box-shadow                 0->glow 
+
+
+
+

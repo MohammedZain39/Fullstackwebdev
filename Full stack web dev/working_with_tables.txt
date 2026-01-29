@@ -1,0 +1,50 @@
+###---Working with tables---###
+
+An HTML table is used to display data in rows and columns.
+>Library records
+>Students marks
+>Employee details
+
+###---Basic Structure of a HTML table:---###
+<table>
+  <tr>
+    <th> Heading </th>
+    <td> Data</td>
+  </tr>
+</table>
+
+
+<table>        Creating table
+<tr>           Table row
+<th>           Table Heading
+<td>           Table data(cell)
+
+
+
+###---Table Properties/Attributes:---###
+1)Border: Add a border to a table
+<table border="1">
+
+2)Cellpadding: Space between cell
+<table cellspacing="5">
+<table width="80%">
+
+3)Align:
+<table align="center">
+
+
+
+###---Table row and cell attributes:---###
+1) colspan: Merge columns
+<td colspan="2"> Merge Cell</td>
+
+2) rowspan: merge rows
+<td rowspan="2> Merge row</td>
+
+###---Table Section Tags:---###
+<thead>         Table Heading
+<tbody>         Main Data
+<tfoot>         Footer
+
+
+

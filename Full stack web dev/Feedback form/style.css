@@ -1,0 +1,21 @@
+body{
+    background: rgb(207, 203, 199);
+    color: rgb(0, 0, 0);
+    justify-content: center;
+
+}
+h2{
+    font-weight:bold;
+    margin-top:10px;
+    text-align: center;
+    font-size: xx-large;
+}   
+label{
+    font-weight:bold;
+    display:block;
+    margin-top:15px;
+}
+form{
+    text-align: center;
+
+}

@@ -1,0 +1,45 @@
+###---Introduction to JavaScript---###
+>variables: it stores data value.
+
+Types of Variables:
+var    // old'(avoided in modern javascript)
+let    // changeable value
+const  //fixed value
+
+
+###---Datatypes:---###
+Type          example
+Number        10,99.5
+String        "hello"
+Boolean       true,false
+Undefined     variable declared but not assigned
+Null          empty value
+Object        {}
+Array         []
+
+
+operators:
+arithmetic operators
++ - % *
+
+comparison operators
+== ===
+
+logical operators
+&& || 
+
+
+###---Functions and Scope:---###
+What is a function?
+a function is a reusable block of code 
+Syntax:
+function functionname(){
+    //code
+}
+
+
+Function with parameters:
+function add(a,b){
+    return
+}
+
